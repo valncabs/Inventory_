@@ -23,7 +23,8 @@ This Python program registers a product by requesting its name, price, and quant
 
 A flowchart was created to represent input, validation, process, and output.
 
-[text](Flowchart.pdf)
+<img width="2000" height="2043" alt="image" src="https://github.com/user-attachments/assets/2d2eafd8-96e0-4f6c-90c8-fb6a43151470" />
+
 
 ### Validation
 
